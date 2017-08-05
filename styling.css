@@ -1,0 +1,16 @@
+#header-friend h3{
+	color: #e4dee5;
+	font-family: sans-serif;
+}
+body{
+	background-image: url(https://cdn.yourstory.com/wp-content/uploads/2015/07/yourstory-party-hunterz-store.jpg);
+	background-repeat:no-repeat;
+    background-size:cover;
+}
+#header-friend{
+	background: rgba(158, 45, 183, 0.7);
+}
+#sender{
+	color: #e4dee5;
+	padding-right: 50px;
+}
